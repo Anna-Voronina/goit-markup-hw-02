@@ -21,6 +21,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  color: var(--primary-text-color);
 }
 
 /* ============STUDIO============ */
@@ -98,6 +99,7 @@ body {
   letter-spacing: 0.04em;
   background-color: var(--accent-color);
   color: #ffffff;
+  cursor: pointer;
 }
 
 .order-service-btn:hover,
@@ -110,6 +112,7 @@ body {
 /* ============About us============ */
 
 .about-us-title {
+  font-style: normal;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -117,7 +120,6 @@ body {
 }
 
 .about-us-text {
-  font-weight: 400;
   color: var(--primary-text-color);
 }
 
@@ -139,7 +141,6 @@ body {
 }
 
 .our-team-position {
-  font-weight: 400;
   text-align: center;
   color: var(--primary-text-color);
 }
@@ -153,7 +154,6 @@ body {
 }
 
 .footer-text {
-  font-weight: 400;
   color: #f4f4fd;
 }
 
@@ -173,6 +173,7 @@ body {
   letter-spacing: 0.04em;
   background-color: #f4f4fd;
   color: var(--accent-color);
+  cursor: pointer;
 }
 
 .filter-btn:hover,
@@ -192,7 +193,6 @@ body {
 }
 
 .project-filter {
-  font-weight: 400;
   color: var(--primary-text-color);
 }
 
